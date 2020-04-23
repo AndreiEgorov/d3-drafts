@@ -1,0 +1,12 @@
+.countries {
+    fill: green;
+    stroke: black;
+    stroke-width: 0.01px
+}
+.sphere {
+    fill: skyblue
+}
+
+.countries:hover{
+    fill: red;
+}

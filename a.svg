@@ -1,0 +1,21 @@
+<svg width="960" height="500">
+ <g stroke="black" stroke-width='3'>
+    <line x1="200" y1="100" x2="220" y2="220"></line>
+    <path fill="none" 
+        d="M 10,30
+        A 20,20 0,0,1 50,30
+        A 20,20 0,0,1 90,30
+        Q 90,60 50,90
+        Q 10,60 10,30 " />
+    </path>
+     <path stroke="red"
+        d="M 250,10
+           l -40,80 80,0
+           z" />
+           <path stroke="red"
+        d="M 15,1
+           l -4,8 8,0 -4,-8" />
+</g>
+   
+
+</svg>

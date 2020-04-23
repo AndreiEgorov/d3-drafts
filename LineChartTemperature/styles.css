@@ -1,0 +1,34 @@
+circle {
+    fill: steelblue;
+    opacity: 0.3
+}
+
+.line-path {
+    fill: none;
+    stroke: maroon;
+    stroke-width: 3px;
+    stroke-linejoin: round;
+
+}
+
+text {
+    font-family: sans-serif
+}
+
+.tick text {
+    font-size: 2em;
+    fill: #312e2c
+}
+.tick line {
+    stroke: #c0c0bb
+}
+
+.axis-label {
+    font-size: 2.5em;
+    fill: #8e8883;
+}
+
+.title {
+    font-size: 2.5em;
+    fill: #312e2c
+}

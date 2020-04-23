@@ -1,0 +1,79 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:userGender",
+          "ga:dimension8"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:users",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "female",
+              "3161"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "9599"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "male",
+              "3161"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "11162"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "20761"
+            ]
+          }
+        ],
+        "rowCount": 2,
+        "minimums": [
+          {
+            "values": [
+              "9599"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "11162"
+            ]
+          }
+        ],
+        "samplesReadCounts": [
+          "499314"
+        ],
+        "samplingSpaceSizes": [
+          "1941217"
+        ],
+        "isDataGolden": true
+      }
+    }
+  ]
+}

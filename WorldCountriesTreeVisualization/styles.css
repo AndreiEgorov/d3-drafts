@@ -1,0 +1,39 @@
+body {
+    position: fixed;
+    top: 0;
+    bottom:0;
+    left: 0;
+    right:0;
+    /* background: red */
+}
+
+path {
+    fill: none;
+    stroke: black
+}
+
+/* .text {
+    text-shadow:
+        -1px -1px 3px white,
+        -1px 1px 3px white,
+        1px -1px 3px white,
+        1px 1px 3px white
+} */
+
+.text{
+    font-weight: 500;
+
+    text-shadow: 
+    -1px -1px 0px grey,
+     -1px 1px 0px grey, 
+     1px -1px 0px grey,
+    1px 1px 0px grey;
+}
+
+-0.1px -1px 1px #dad8c3, -0.1px 1px 1px #dad8c3, 0.1px -1px 1px #dad8c3, 0.1px 1px 1px #dad8c3
+
+path {
+    stroke: #57bdc3;
+
+    text-shadow: 0.1px 0.1px 3px #000000c4
+}

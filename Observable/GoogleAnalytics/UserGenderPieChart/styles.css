@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+    font-family: sans-serif;
+
+}
+.chart-title {
+    fill: #b3b3b3;
+    font-size: 0.8em;
+
+}
+
+.x-axis .tick text,
+.y-axis .tick text{
+    fill: #b3b3b3;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+.legend-first-text,
+.legend-middle-text,
+.legend-last-text{
+    font-size: 0.8em;
+    fill: #b3b3b3;
+}
+
+.legend-last-text{
+    text-anchor: end;
+}
+.legend-middle-text{
+    text-anchor: middle;
+}
+
+.cell-tooltip {
+    background: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 0.6em;
+}
